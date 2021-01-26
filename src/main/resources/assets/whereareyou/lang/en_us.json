@@ -1,0 +1,4 @@
+{
+  "chat.where.other": "Player %s is at [%d, %d, %d]",
+  "chat.where.me": "I will never told you that press F3 to check your position! You are at [%d, %d, %d]"
+}
